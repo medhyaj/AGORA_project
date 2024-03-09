@@ -1,0 +1,26 @@
+This file contains the failing requests, ordered by the number of blocked dependent requests.
+To improve coverage, fix the failing requests in the order listed in this file.
+
+Note: some requests are labeled as 'sequence failure'.
+This means the request depends on another request that is failing intermittently.
+For example, a DELETE request for a resource may be skipped because the resource
+PUT request failed due to exceeding quota.  The same PUT request succeeded earlier (and may
+succeed later depending on the resource clean-up behavior in the service), so it is
+considered an intermittent failure.
+
+-----------------------------------------------
+Request: Get /albums/{id}/tracks
+Number of blocked dependent requests: 0
+
+	+++ Combination 1 +++:
+	Request sequence: 
+	> GET /v1/albums/1/tracks?limit=1&offset=1&market=1 HTTP/1.1\r\nAccept: application/json\r\nHost: api.spotify.com\r\n\r\n
+	< HTTP/1.1 301 Moved Permanently\r\nlocation: https://api.spotify.com/v1/albums/1/tracks?limit=1&offset=1&market=1\r\ndate: Sat, 09 Mar 2024 19:11:11 GMT\r\nserver: envoy\r\nContent-Length: 0\r\nVia: 1.1 google\r\n\r\n
+
+
+	+++ Combination 2 +++:
+	Request sequence: 
+	> GET /v1/albums/1/tracks HTTP/1.1\r\nAccept: application/json\r\nHost: api.spotify.com\r\n\r\n
+	< HTTP/1.1 301 Moved Permanently\r\nlocation: https://api.spotify.com/v1/albums/1/tracks\r\ndate: Sat, 09 Mar 2024 19:11:11 GMT\r\nserver: envoy\r\nContent-Length: 0\r\nVia: 1.1 google\r\n\r\n
+
+

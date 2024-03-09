@@ -1,0 +1,67 @@
+Random seed: 12345
+Setting fuzzing schemes: directed-smoke-test
+2024-03-09 11:10:55.907: Going to fuzz a set with 1 requests
+2024-03-09 11:10:55.907: Request-0: Value Combinations: 2
+2024-03-09 11:10:55.907: Avg. Value Combinations per Request: 2
+2024-03-09 11:10:55.907: Median Value Combinations per Request: 2
+2024-03-09 11:10:55.907: Min Value Combinations per Request: 2
+2024-03-09 11:10:55.907: Max Value Combinations per Request: 2
+2024-03-09 11:10:55.907: Total dependencies: 0
+
+2024-03-09 11:10:55.908: Generation: 1 / Sequences Collection Size: 1 
+(After directed-smoke-test Extend)
+
+Rendering request 0 from scratch
+
+2024-03-09 11:10:56.172: Request 0
+2024-03-09 11:10:56.172: Endpoint - /albums/{id}/tracks
+2024-03-09 11:10:56.172: Hex Def - 06d2b821ae7b1beadeedd466f75a0aef1b5e32f5
+2024-03-09 11:10:56.172: Sequence length that satisfies dependencies: 1
+2024-03-09 11:10:56.172: Rendering INVALID
+		- restler_static_string: 'GET '
+		- restler_static_string: '/v1'
+		- restler_static_string: '/'
+		- restler_static_string: 'albums'
+		- restler_static_string: '/'
+		- restler_fuzzable_int: '1'
+		- restler_static_string: '/'
+		- restler_static_string: 'tracks'
+		- restler_static_string: '?'
+		- restler_static_string: 'limit='
+		- restler_fuzzable_int: '1'
+		- restler_static_string: '&'
+		- restler_static_string: 'offset='
+		- restler_fuzzable_int: '1'
+		- restler_static_string: '&'
+		- restler_static_string: 'market='
+		- restler_fuzzable_int: '1'
+		- restler_static_string: ' HTTP/1.1\r\n'
+		- restler_static_string: 'Accept: application/json\r\n'
+		- restler_static_string: 'Host: api.spotify.com\r\n'
+		+ restler_refreshable_authentication_token: ['token_auth_method', 'token_refresh_interval']
+		- restler_static_string: '\r\n'
+
+2024-03-09 11:10:56.173: Generation: 1 / Sequences Collection Size: 0 
+(After directed-smoke-test Render)
+
+2024-03-09 11:10:56.173: Final Swagger spec coverage: 0 / 1
+2024-03-09 11:10:56.173: Rendered requests: 1 / 1
+2024-03-09 11:10:56.173: Rendered requests with "valid" status codes: 0 / 1
+2024-03-09 11:10:56.173: Num fully valid requests (no resource creation failures): 0
+2024-03-09 11:10:56.173: Num requests not rendered due to invalid sequence re-renders: 0
+2024-03-09 11:10:56.173: Num invalid requests caused by failed resource creations: 0
+2024-03-09 11:10:56.173: Total Creations of Dyn Objects: 0
+2024-03-09 11:10:56.173: Total Requests Sent: {'gc': 0, 'main_driver': 2}
+2024-03-09 11:10:56.173: Bug Buckets: {}
+
+Testing completed -- below are the final stats:
+
+2024-03-09 11:10:56.176: Final Swagger spec coverage: 0 / 1
+2024-03-09 11:10:56.176: Rendered requests: 1 / 1
+2024-03-09 11:10:56.176: Rendered requests with "valid" status codes: 0 / 1
+2024-03-09 11:10:56.176: Num fully valid requests (no resource creation failures): 0
+2024-03-09 11:10:56.176: Num requests not rendered due to invalid sequence re-renders: 0
+2024-03-09 11:10:56.176: Num invalid requests caused by failed resource creations: 0
+2024-03-09 11:10:56.176: Total Creations of Dyn Objects: 0
+2024-03-09 11:10:56.176: Total Requests Sent: {'gc': 0, 'main_driver': 2}
+2024-03-09 11:10:56.176: Bug Buckets: {}

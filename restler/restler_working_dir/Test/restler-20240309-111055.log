@@ -1,0 +1,34 @@
+Restler Information: 0 : Starting task Test...
+    DateTime=2024-03-09T19:10:55.2141590Z
+Restler Information: 0 : Launching 'python --version'
+    DateTime=2024-03-09T19:10:55.5028610Z
+Restler Information: 0 : Launching 'python3 --version'
+    DateTime=2024-03-09T19:10:55.5028980Z
+Restler Information: 0 : Process execution terminated in 00:00:00.0692840 with exit code 0x0: 'python3 --version'
+    DateTime=2024-03-09T19:10:55.5854170Z
+Restler Information: 0 : (65343) python3 --version exited with code: 0
+    DateTime=2024-03-09T19:10:55.5896070Z
+Restler Information: 0 : Launching 'python3 -B "/Users/abhishekmanyam/Desktop/project_PA/restlr/restler-fuzzer/restler_bin/restler/../engine/restler.py" --restler_grammar "/Users/abhishekmanyam/Desktop/project_PA/restlr/restler-fuzzer/restler_working_dir/Compile/grammar.py" --custom_mutations "/Users/abhishekmanyam/Desktop/project_PA/restlr/restler-fuzzer/restler_working_dir/Compile/dict.json" --set_version 9.2.4    --no_ssl   --settings "/Users/abhishekmanyam/Desktop/project_PA/restlr/restler-fuzzer/restler_working_dir/Compile/engine_settings.json"     --include_user_agent --no_tokens_in_logs t --garbage_collection_interval 30 --fuzzing_mode directed-smoke-test'
+    DateTime=2024-03-09T19:10:55.5997900Z
+Restler Information: 0 : Process execution terminated in 00:00:00.6062915 with exit code 0x0: 'python3 -B "/Users/abhishekmanyam/Desktop/project_PA/restlr/restler-fuzzer/restler_bin/restler/../engine/restler.py" --restler_grammar "/Users/abhishekmanyam/Desktop/project_PA/restlr/restler-fuzzer/restler_working_dir/Compile/grammar.py" --custom_mutations "/Users/abhishekmanyam/Desktop/project_PA/restlr/restler-fuzzer/restler_working_dir/Compile/dict.json" --set_version 9.2.4    --no_ssl   --settings "/Users/abhishekmanyam/Desktop/project_PA/restlr/restler-fuzzer/restler_working_dir/Compile/engine_settings.json"     --include_user_agent --no_tokens_in_logs t --garbage_collection_interval 30 --fuzzing_mode directed-smoke-test'
+    DateTime=2024-03-09T19:10:56.2062500Z
+Restler Information: 0 : (65344) python3 -B "/Users/abhishekmanyam/Desktop/project_PA/restlr/restler-fuzzer/restler_bin/restler/../engine/restler.py" --restler_grammar "/Users/abhishekmanyam/Desktop/project_PA/restlr/restler-fuzzer/restler_working_dir/Compile/grammar.py" --custom_mutations "/Users/abhishekmanyam/Desktop/project_PA/restlr/restler-fuzzer/restler_working_dir/Compile/dict.json" --set_version 9.2.4    --no_ssl   --settings "/Users/abhishekmanyam/Desktop/project_PA/restlr/restler-fuzzer/restler_working_dir/Compile/engine_settings.json"     --include_user_agent --no_tokens_in_logs t --garbage_collection_interval 30 --fuzzing_mode directed-smoke-test exited with code: 0
+    DateTime=2024-03-09T19:10:56.2064120Z
+Restler Information: 0 : Launching 'dotnet "/Users/abhishekmanyam/Desktop/project_PA/restlr/restler-fuzzer/restler_bin/restler/../resultsAnalyzer/Restler.ResultsAnalyzer.dll" analyze "/Users/abhishekmanyam/Desktop/project_PA/restlr/restler-fuzzer/restler_working_dir/Test" --output_dir "/Users/abhishekmanyam/Desktop/project_PA/restlr/restler-fuzzer/restler_working_dir/Test/ResponseBuckets" --dictionary_file "/Users/abhishekmanyam/Desktop/project_PA/restlr/restler-fuzzer/restler_working_dir/Compile/dict.json" --max_instances_per_bucket 10'
+    DateTime=2024-03-09T19:10:56.2162970Z
+Restler Information: 0 : Process execution terminated in 00:00:00.3427312 with exit code 0x0: 'dotnet "/Users/abhishekmanyam/Desktop/project_PA/restlr/restler-fuzzer/restler_bin/restler/../resultsAnalyzer/Restler.ResultsAnalyzer.dll" analyze "/Users/abhishekmanyam/Desktop/project_PA/restlr/restler-fuzzer/restler_working_dir/Test" --output_dir "/Users/abhishekmanyam/Desktop/project_PA/restlr/restler-fuzzer/restler_working_dir/Test/ResponseBuckets" --dictionary_file "/Users/abhishekmanyam/Desktop/project_PA/restlr/restler-fuzzer/restler_working_dir/Compile/dict.json" --max_instances_per_bucket 10'
+    DateTime=2024-03-09T19:10:56.5591740Z
+Restler Information: 0 : (65346) dotnet "/Users/abhishekmanyam/Desktop/project_PA/restlr/restler-fuzzer/restler_bin/restler/../resultsAnalyzer/Restler.ResultsAnalyzer.dll" analyze "/Users/abhishekmanyam/Desktop/project_PA/restlr/restler-fuzzer/restler_working_dir/Test" --output_dir "/Users/abhishekmanyam/Desktop/project_PA/restlr/restler-fuzzer/restler_working_dir/Test/ResponseBuckets" --dictionary_file "/Users/abhishekmanyam/Desktop/project_PA/restlr/restler-fuzzer/restler_working_dir/Compile/dict.json" --max_instances_per_bucket 10 exited with code: 0
+    DateTime=2024-03-09T19:10:56.5592280Z
+Restler Information: 0 : Request coverage (successful / total): 0 / 1
+    DateTime=2024-03-09T19:10:56.6693460Z
+Restler Information: 0 : Attempted requests: 1 / 1
+    DateTime=2024-03-09T19:10:56.6693720Z
+Restler Information: 0 : No bugs were found.
+    DateTime=2024-03-09T19:10:56.6708550Z
+Restler Information: 0 : See 'coverage_failures_to_investigate.txt' to investigate API coverage.
+    DateTime=2024-03-09T19:10:56.7157110Z
+Restler Information: 0 : Task Test succeeded.
+    DateTime=2024-03-09T19:10:56.7173300Z
+Restler Information: 0 : Collecting logs...
+    DateTime=2024-03-09T19:10:56.7576070Z

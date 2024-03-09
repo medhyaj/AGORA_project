@@ -1,0 +1,44 @@
+[3/9/2024 11:10:54AM] Generating grammar...
+[3/9/2024 11:10:54AM] Getting requests...
+[3/9/2024 11:10:54AM] Getting dependencies...
+[3/9/2024 11:10:54AM] Getting path consumers...
+[3/9/2024 11:10:54AM] Getting query consumers...
+[3/9/2024 11:10:54AM] Getting header consumers...
+[3/9/2024 11:10:54AM] Getting body consumers...
+[3/9/2024 11:10:54AM] Getting producers...
+[3/9/2024 11:10:54AM] Done processing producers
+[3/9/2024 11:10:54AM] Compute dependencies
+[3/9/2024 11:10:54AM] Second pass dependencies for request { endpoint = "/albums/{id}/tracks"
+  xMsPath = None
+  method = Get }[3/9/2024 11:10:54AM] Second pass dependencies for request { endpoint = "/albums/{id}/tracks"
+  xMsPath = None
+  method = Get }
+
+[3/9/2024 11:10:54AM] Done dependencies for request { endpoint = "/albums/{id}/tracks"
+  xMsPath = None
+  method = Get }
+[3/9/2024 11:10:54AM] Done dependencies for request { endpoint = "/albums/{id}/tracks"
+  xMsPath = None
+  method = Get }
+[3/9/2024 11:10:54AM] Second pass dependencies for request { endpoint = "/albums/{id}/tracks"
+  xMsPath = None
+  method = Get }[3/9/2024 11:10:54AM] Second pass dependencies for request { endpoint = "/albums/{id}/tracks"
+  xMsPath = None
+  method = Get }
+
+[3/9/2024 11:10:54AM] Done dependencies for request { endpoint = "/albums/{id}/tracks"
+  xMsPath = None
+  method = Get }
+[3/9/2024 11:10:54AM] Done dependencies for request { endpoint = "/albums/{id}/tracks"
+  xMsPath = None
+  method = Get }
+[3/9/2024 11:10:54AM] Assigning equality constraints...
+[3/9/2024 11:10:54AM] Getting ordering constraints...
+[3/9/2024 11:10:54AM] Dependency analysis completed.
+[3/9/2024 11:10:54AM] Generating request primitives...
+Writing new dictionary to /Users/abhishekmanyam/Desktop/project_PA/restlr/restler-fuzzer/restler_working_dir/Compile/dict.json
+[3/9/2024 11:10:54AM] Generating python grammar...
+[3/9/2024 11:10:54AM] Get requests
+[3/9/2024 11:10:54AM] Done get requests
+[3/9/2024 11:10:54AM] Done generating python grammar.
+Workflow completed.  See /Users/abhishekmanyam/Desktop/project_PA/restlr/restler-fuzzer/restler_working_dir/Compile for REST-ler grammar.

@@ -1,0 +1,10 @@
+/Users/abhishekmanyam/Desktop/project_PA/restlr/restler-fuzzer/src/compiler/Restler.Compiler/bin/release/net6.0/Sysprep.ps1
+/Users/abhishekmanyam/Desktop/project_PA/restlr/restler-fuzzer/src/compiler/Restler.Compiler/bin/release/net6.0/Restler.Compiler.deps.json
+/Users/abhishekmanyam/Desktop/project_PA/restlr/restler-fuzzer/src/compiler/Restler.Compiler/bin/release/net6.0/Restler.Compiler.dll
+/Users/abhishekmanyam/Desktop/project_PA/restlr/restler-fuzzer/src/compiler/Restler.Compiler/bin/release/net6.0/Restler.Compiler.pdb
+/Users/abhishekmanyam/Desktop/project_PA/restlr/restler-fuzzer/src/compiler/Restler.Compiler/obj/release/net6.0/Restler.Compiler.fsproj.AssemblyReference.cache
+/Users/abhishekmanyam/Desktop/project_PA/restlr/restler-fuzzer/src/compiler/Restler.Compiler/obj/release/net6.0/Restler.Compiler.AssemblyInfoInputs.cache
+/Users/abhishekmanyam/Desktop/project_PA/restlr/restler-fuzzer/src/compiler/Restler.Compiler/obj/release/net6.0/Restler.Compiler.AssemblyInfo.fs
+/Users/abhishekmanyam/Desktop/project_PA/restlr/restler-fuzzer/src/compiler/Restler.Compiler/obj/release/net6.0/Restler.Compiler.fsproj.CoreCompileInputs.cache
+/Users/abhishekmanyam/Desktop/project_PA/restlr/restler-fuzzer/src/compiler/Restler.Compiler/obj/release/net6.0/Restler.Compiler.dll
+/Users/abhishekmanyam/Desktop/project_PA/restlr/restler-fuzzer/src/compiler/Restler.Compiler/obj/release/net6.0/Restler.Compiler.pdb

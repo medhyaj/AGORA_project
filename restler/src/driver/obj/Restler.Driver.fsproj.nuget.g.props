@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
+    <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">/Users/abhishekmanyam/.nuget/packages/</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">/Users/abhishekmanyam/.nuget/packages/</NuGetPackageFolders>
+    <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.6.0</NuGetToolVersion>
+  </PropertyGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <SourceRoot Include="/Users/abhishekmanyam/.nuget/packages/" />
+  </ItemGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Content Include="$(NuGetPackageRoot)microsoft.fsharplu/0.11.7/contentFiles/any/netstandard2.0/Sysprep.ps1" Condition="Exists('$(NuGetPackageRoot)microsoft.fsharplu/0.11.7/contentFiles/any/netstandard2.0/Sysprep.ps1')">
+      <NuGetPackageId>Microsoft.FSharpLu</NuGetPackageId>
+      <NuGetPackageVersion>0.11.7</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <TargetPath>Sysprep.ps1</TargetPath>
+      <Private>True</Private>
+      <Link>Sysprep.ps1</Link>
+    </Content>
+  </ItemGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgFSharp_Core Condition=" '$(PkgFSharp_Core)' == '' ">/Users/abhishekmanyam/.nuget/packages/fsharp.core/4.7.2</PkgFSharp_Core>
+    <PkgMicrosoft_FSharpLu_Json Condition=" '$(PkgMicrosoft_FSharpLu_Json)' == '' ">/Users/abhishekmanyam/.nuget/packages/microsoft.fsharplu.json/0.11.7</PkgMicrosoft_FSharpLu_Json>
+    <PkgMicrosoft_FSharpLu Condition=" '$(PkgMicrosoft_FSharpLu)' == '' ">/Users/abhishekmanyam/.nuget/packages/microsoft.fsharplu/0.11.7</PkgMicrosoft_FSharpLu>
+  </PropertyGroup>
+</Project>
