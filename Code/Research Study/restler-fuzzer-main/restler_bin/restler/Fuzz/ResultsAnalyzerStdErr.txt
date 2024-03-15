@@ -1,0 +1,77 @@
+Warning: could not parse response in line 130: <html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n<hr><center>cloudflare</center>\r\n</body>\r\n</html>\r\n
+Warning: could not parse request in line 206: GET /?s=_Y Ve]\t!_91}\tA}KO\r&type=movie&y=1&r=json&page=1&apikey=a0809e41 HTTP/1.1\r\nAccept: application/json\r\nHost: omdbapi.com\r\nContent-Length: 0\r\nUser-Agent: restler/9.2.4\r\n\r\n
+Warning: could not parse response in line 219: <html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n<hr><center>cloudflare</center>\r\n</body>\r\n</html>\r\n
+Warning: could not parse request in line 228: GET /?s=3>1-Q"Vg!e*Az[~bHG &E&type=movie&y=1&r=json&page=1&apikey=a0809e41 HTTP/1.1\r\nAccept: application/json\r\nHost: omdbapi.com\r\nContent-Length: 0\r\nUser-Agent: restler/9.2.4\r\n\r\n
+Warning: could not parse response in line 238: <html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n<hr><center>cloudflare</center>\r\n</body>\r\n</html>\r\n
+Warning: could not parse response in line 265: <html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n<hr><center>cloudflare</center>\r\n</body>\r\n</html>\r\n
+Warning: could not parse request in line 283: GET /?s=B /^(t(O~Nh&g8\n+Fh,*J`i&type=movie&y=1&r=json&page=1&apikey=a0809e41 HTTP/1.1\r\nAccept: application/json\r\nHost: omdbapi.com\r\nContent-Length: 0\r\nUser-Agent: restler/9.2.4\r\n\r\n
+Warning: could not parse response in line 285: <html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n<hr><center>cloudflare</center>\r\n</body>\r\n</html>\r\n
+Warning: could not parse request in line 326: GET /?s=bl>.=!by_vRi\\)S/AEh&?tZ-&type=movie&y=1&r=json&page=1&apikey=a0809e41 HTTP/1.1\r\nAccept: application/json\r\nHost: omdbapi.com\r\nContent-Length: 0\r\nUser-Agent: restler/9.2.4\r\n\r\n
+Warning: could not parse request in line 342: GET /?s=?|&m\nElprp:<Yj!YVFV;&type=movie&y=1&r=json&page=1&apikey=a0809e41 HTTP/1.1\r\nAccept: application/json\r\nHost: omdbapi.com\r\nContent-Length: 0\r\nUser-Agent: restler/9.2.4\r\n\r\n
+Warning: could not parse response in line 344: <html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n<hr><center>cloudflare</center>\r\n</body>\r\n</html>\r\n
+Warning: could not parse request in line 377: GET /?s=o 0x<JOyY<O&TS$Kc\nApDc;4&type=movie&y=1&r=json&page=1&apikey=a0809e41 HTTP/1.1\r\nAccept: application/json\r\nHost: omdbapi.com\r\nContent-Length: 0\r\nUser-Agent: restler/9.2.4\r\n\r\n
+Warning: could not parse response in line 379: <html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n<hr><center>cloudflare</center>\r\n</body>\r\n</html>\r\n
+Warning: could not parse request in line 426: GET /?s=XG+7k_o0 7*2x2xIVg;u5M|8}!HM?Cs9&type=movie&y=1&r=json&page=1&apikey=a0809e41 HTTP/1.1\r\nAccept: application/json\r\nHost: omdbapi.com\r\nContent-Length: 0\r\nUser-Agent: restler/9.2.4\r\n\r\n
+Warning: could not parse response in line 436: <html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n<hr><center>cloudflare</center>\r\n</body>\r\n</html>\r\n
+Warning: could not parse request in line 445: GET /?s=OFJg<~\nJV^80Pcp]SMlC!7r\t.qgQ)g?h])B.9&type=movie&y=1&r=json&page=1&apikey=a0809e41 HTTP/1.1\r\nAccept: application/json\r\nHost: omdbapi.com\r\nContent-Length: 0\r\nUser-Agent: restler/9.2.4\r\n\r\n
+Warning: could not parse response in line 447: <html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n<hr><center>cloudflare</center>\r\n</body>\r\n</html>\r\n
+Warning: could not parse request in line 456: GET /?s=cPGnjeR$B55iIeR&qvI))(p?:~JKyA )7f+&type=movie&y=1&r=json&page=1&apikey=a0809e41 HTTP/1.1\r\nAccept: application/json\r\nHost: omdbapi.com\r\nContent-Length: 0\r\nUser-Agent: restler/9.2.4\r\n\r\n
+Warning: could not parse request in line 464: GET /?s=$\x0bq?eC_m48y%u4mDzC\t%\x0bghh0B>7V.\nLSc.W&type=movie&y=1&r=json&page=1&apikey=a0809e41 HTTP/1.1\r\nAccept: application/json\r\nHost: omdbapi.com\r\nContent-Length: 0\r\nUser-Agent: restler/9.2.4\r\n\r\n
+Warning: could not parse response in line 466: <html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n<hr><center>cloudflare</center>\r\n</body>\r\n</html>\r\n
+Warning: could not parse request in line 499: GET /?s=3\t3hnf#t=?9mJy]fDt}bW^-0]g3Ye<WW7HO=p8)%S&type=movie&y=1&r=json&page=1&apikey=a0809e41 HTTP/1.1\r\nAccept: application/json\r\nHost: omdbapi.com\r\nContent-Length: 0\r\nUser-Agent: restler/9.2.4\r\n\r\n
+Warning: could not parse response in line 517: <html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n<hr><center>cloudflare</center>\r\n</body>\r\n</html>\r\n
+Warning: could not parse response in line 528: <html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n<hr><center>cloudflare</center>\r\n</body>\r\n</html>\r\n
+Warning: could not parse request in line 537: GET /?s=k7044"U+_}avUm-~`0O.[>x{wKu?*|4v8A>a":}/&type=movie&y=1&r=json&page=1&apikey=a0809e41 HTTP/1.1\r\nAccept: application/json\r\nHost: omdbapi.com\r\nContent-Length: 0\r\nUser-Agent: restler/9.2.4\r\n\r\n
+Warning: could not parse response in line 558: <html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n<hr><center>cloudflare</center>\r\n</body>\r\n</html>\r\n
+Warning: could not parse request in line 583: GET /?s=5{5W}JqtMG:|\x0c52<?kzrT"6ZW\nT(\t95y-WzH)C\tuwf#ki> dY8&type=movie&y=1&r=json&page=1&apikey=a0809e41 HTTP/1.1\r\nAccept: application/json\r\nHost: omdbapi.com\r\nContent-Length: 0\r\nUser-Agent: restler/9.2.4\r\n\r\n
+Warning: could not parse response in line 585: <html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n<hr><center>cloudflare</center>\r\n</body>\r\n</html>\r\n
+Warning: could not parse request in line 626: GET /?s=4sbPu u|9ElgA?G6rj(+7 H3-@\x0bC6XHb#PCF0"y\x0cgQzD~7?&type=movie&y=1&r=json&page=1&apikey=a0809e41 HTTP/1.1\r\nAccept: application/json\r\nHost: omdbapi.com\r\nContent-Length: 0\r\nUser-Agent: restler/9.2.4\r\n\r\n
+Warning: could not parse request in line 653: GET /?s=I_>~3KBOwLa$/df>1 5jsW MR5pwNxdG{s*n2]4*_PY*CT&type=movie&y=1&r=json&page=1&apikey=a0809e41 HTTP/1.1\r\nAccept: application/json\r\nHost: omdbapi.com\r\nContent-Length: 0\r\nUser-Agent: restler/9.2.4\r\n\r\n
+Unhandled exception. System.Exception: Unexpected response without prior request at 3/10/2024 2:18:39 PM: { version = "HTTP/1.1"
+  statusCode = 400
+  statusDescription = "Bad Request"
+  headers =
+           map
+             [("CF-Cache-Status", "DYNAMIC"); ("CF-RAY", "862656a3ca39682e-SEA");
+              ("Connection", "keep-alive");
+              ("Content-Type", "text/html; charset=us-ascii");
+              ("Date", "Sun, 10 Mar 2024 21:18:38 GMT");
+              ("Server", "cloudflare"); ("Transfer-Encoding", "chunked")]
+  body =
+        "137
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Bad Request</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Bad Request</h2>
+<hr><p>HTTP Error 400. The request is badly formed.</p>
+</BODY></HTML>
+
+"
+  str = None }
+   at Microsoft.FSharp.Core.PrintfModule.PrintFormatToStringThenFail@1639.Invoke(String message) in F:\workspace\_work\1\s\src\fsharp\FSharp.Core\printf.fs:line 1639
+   at Microsoft.FSharp.Collections.Internal.IEnumerator.choose@171.System-Collections-IEnumerator-MoveNext() in F:\workspace\_work\1\s\src\fsharp\FSharp.Core\seq.fs:line 179
+   at Microsoft.FSharp.Collections.Internal.IEnumerator.map@75.DoMoveNext(b& curr) in F:\workspace\_work\1\s\src\fsharp\FSharp.Core\seq.fs:line 77
+   at Microsoft.FSharp.Collections.Internal.IEnumerator.MapEnumerator`1.System-Collections-IEnumerator-MoveNext() in F:\workspace\_work\1\s\src\fsharp\FSharp.Core\seq.fs:line 64
+   at Microsoft.FSharp.Core.CompilerServices.RuntimeHelpers.takeInner@266[T,TResult](ConcatEnumerator`2 x, Unit unitVar0) in F:\workspace\_work\1\s\src\fsharp\FSharp.Core\seqcore.fs:line 268
+   at Microsoft.FSharp.Collections.Internal.IEnumerator.map@75.DoMoveNext(b& curr) in F:\workspace\_work\1\s\src\fsharp\FSharp.Core\seq.fs:line 77
+   at Microsoft.FSharp.Collections.Internal.IEnumerator.MapEnumerator`1.System-Collections-IEnumerator-MoveNext() in F:\workspace\_work\1\s\src\fsharp\FSharp.Core\seq.fs:line 64
+   at Microsoft.FSharp.Collections.Internal.IEnumerator.map@75.DoMoveNext(b& curr) in F:\workspace\_work\1\s\src\fsharp\FSharp.Core\seq.fs:line 77
+   at Microsoft.FSharp.Collections.Internal.IEnumerator.MapEnumerator`1.System-Collections-IEnumerator-MoveNext() in F:\workspace\_work\1\s\src\fsharp\FSharp.Core\seq.fs:line 64
+   at Microsoft.FSharp.Core.CompilerServices.RuntimeHelpers.takeInner@266[T,TResult](ConcatEnumerator`2 x, Unit unitVar0) in F:\workspace\_work\1\s\src\fsharp\FSharp.Core\seqcore.fs:line 268
+   at Microsoft.FSharp.Collections.Internal.IEnumerator.next@193[T](FSharpFunc`2 f, IEnumerator`1 e, FSharpRef`1 started, Unit unitVar0) in F:\workspace\_work\1\s\src\fsharp\FSharp.Core\seq.fs:line 194
+   at Microsoft.FSharp.Collections.Internal.IEnumerator.filter@188.System-Collections-IEnumerator-MoveNext() in F:\workspace\_work\1\s\src\fsharp\FSharp.Core\seq.fs:line 196
+   at Microsoft.FSharp.Collections.SeqModule.oneStepTo@987[T](IEnumerable`1 source, List`1 prefix, FSharpRef`1 enumeratorR, Int32 i) in F:\workspace\_work\1\s\src\fsharp\FSharp.Core\seq.fs:line 996
+   at Microsoft.FSharp.Collections.SeqModule.action@4164-1[T](IEnumerable`1 source, List`1 prefix, FSharpRef`1 enumeratorR, Int32 i, Unit unitVar0) in F:\workspace\_work\1\s\src\fsharp\FSharp.Core\seq.fs:line 1011
+   at Microsoft.FSharp.Collections.SeqModule.result@1003.Invoke(Int32 i)
+   at Microsoft.FSharp.Collections.Internal.IEnumerator.unfold@205.DoMoveNext(b& curr) in F:\workspace\_work\1\s\src\fsharp\FSharp.Core\seq.fs:line 207
+   at Microsoft.FSharp.Collections.Internal.IEnumerator.MapEnumerator`1.System-Collections-IEnumerator-MoveNext() in F:\workspace\_work\1\s\src\fsharp\FSharp.Core\seq.fs:line 64
+   at Microsoft.FSharp.Collections.SeqModule.Iterate[T](FSharpFunc`2 action, IEnumerable`1 source) in F:\workspace\_work\1\s\src\fsharp\FSharp.Core\seq.fs:line 496
+   at Microsoft.FSharp.Collections.SeqModule.groupByValueType[T,TKey](FSharpFunc`2 keyf, IEnumerable`1 seq) in F:\workspace\_work\1\s\src\fsharp\FSharp.Core\seq.fs:line 1068
+   at Microsoft.FSharp.Collections.SeqModule.GroupBy@1076.Invoke(Unit unitVar0) in F:\workspace\_work\1\s\src\fsharp\FSharp.Core\seq.fs:line 1076
+   at Microsoft.FSharp.Collections.SeqModule.mkDelayedSeq@471.Invoke(Unit unitVar0) in F:\workspace\_work\1\s\src\fsharp\FSharp.Core\seq.fs:line 471
+   at Restler.ResultsAnalyzer.Analyze.Buckets.getBuckets@98.GenerateNext(IEnumerable`1& next) in C:\Users\COE User\Documents\GitHub\restler\restler-fuzzer-main\restler-fuzzer-main\src\ResultsAnalyzer\Analyze\Buckets.fs:line 98
+   at Microsoft.FSharp.Core.CompilerServices.GeneratedSequenceBase`1.MoveNextImpl() in F:\workspace\_work\1\s\src\fsharp\FSharp.Core\seqcore.fs:line 371
+   at Microsoft.FSharp.Core.CompilerServices.GeneratedSequenceBase`1.System-Collections-IEnumerator-MoveNext() in F:\workspace\_work\1\s\src\fsharp\FSharp.Core\seqcore.fs:line 403
+   at Microsoft.FSharp.Collections.SeqModule.ToList[T](IEnumerable`1 source)
+   at Restler.ResultsAnalyzer.Analyze.Main.main(AnalyzeArgs args) in C:\Users\COE User\Documents\GitHub\restler\restler-fuzzer-main\restler-fuzzer-main\src\ResultsAnalyzer\Analyze\Main.fs:line 103
+   at Restler.ResultsAnalyzer.Program.main(String[] argv) in C:\Users\COE User\Documents\GitHub\restler\restler-fuzzer-main\restler-fuzzer-main\src\ResultsAnalyzer\Program.fs:line 223

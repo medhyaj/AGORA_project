@@ -1,0 +1,142 @@
+[
+  {
+    "consumer": {
+      "id": {
+        "RequestId": {
+          "endpoint": "",
+          "method": "Get"
+        },
+        "ResourceReference": {
+          "QueryResource": "s"
+        },
+        "CandidateTypeNames": [
+          "s"
+        ],
+        "AccessPathParts": {
+          "path": []
+        },
+        "ResourceName": "s",
+        "ProducerParameterName": "s",
+        "IsNestedBodyResource": false,
+        "PrimitiveType": "String"
+      },
+      "parameterKind": "Query"
+    }
+  },
+  {
+    "consumer": {
+      "id": {
+        "RequestId": {
+          "endpoint": "",
+          "method": "Get"
+        },
+        "ResourceReference": {
+          "QueryResource": "type"
+        },
+        "CandidateTypeNames": [
+          "type"
+        ],
+        "AccessPathParts": {
+          "path": []
+        },
+        "ResourceName": "type",
+        "ProducerParameterName": "type",
+        "IsNestedBodyResource": false,
+        "PrimitiveType": {
+          "Enum": [
+            "type",
+            "String",
+            [
+              "movie",
+              "series",
+              "episode"
+            ],
+            null
+          ]
+        }
+      },
+      "parameterKind": "Query"
+    }
+  },
+  {
+    "consumer": {
+      "id": {
+        "RequestId": {
+          "endpoint": "",
+          "method": "Get"
+        },
+        "ResourceReference": {
+          "QueryResource": "page"
+        },
+        "CandidateTypeNames": [
+          "page"
+        ],
+        "AccessPathParts": {
+          "path": []
+        },
+        "ResourceName": "page",
+        "ProducerParameterName": "page",
+        "IsNestedBodyResource": false,
+        "PrimitiveType": "Int"
+      },
+      "parameterKind": "Query"
+    }
+  },
+  {
+    "consumer": {
+      "id": {
+        "RequestId": {
+          "endpoint": "",
+          "method": "Get"
+        },
+        "ResourceReference": {
+          "QueryResource": "y"
+        },
+        "CandidateTypeNames": [
+          "y"
+        ],
+        "AccessPathParts": {
+          "path": []
+        },
+        "ResourceName": "y",
+        "ProducerParameterName": "y",
+        "IsNestedBodyResource": false,
+        "PrimitiveType": "Int"
+      },
+      "parameterKind": "Query"
+    }
+  },
+  {
+    "consumer": {
+      "id": {
+        "RequestId": {
+          "endpoint": "",
+          "method": "Get"
+        },
+        "ResourceReference": {
+          "QueryResource": "r"
+        },
+        "CandidateTypeNames": [
+          "r"
+        ],
+        "AccessPathParts": {
+          "path": []
+        },
+        "ResourceName": "r",
+        "ProducerParameterName": "r",
+        "IsNestedBodyResource": false,
+        "PrimitiveType": {
+          "Enum": [
+            "r",
+            "String",
+            [
+              "json"
+            ],
+            null
+          ]
+        }
+      },
+      "parameterKind": "Query"
+    }
+  }
+]

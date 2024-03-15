@@ -1,0 +1,18 @@
+2024-03-10 14:10:33.040: Initializing: Garbage collection every 30 seconds.
+2024-03-10 14:10:33.052: Generation: 1 
+Invalid value generator random seed: 1710105033.9443
+Setting invalid value generator random seed: 12345
+Invalid value generator random seed: 1710107132.504471
+Setting invalid value generator random seed: 12345
+Invalid value generator random seed: 1710107135.7074165
+Setting invalid value generator random seed: 12345
+Invalid value generator random seed: 1710107394.2850094
+Setting invalid value generator random seed: 12345
+Invalid value generator random seed: 1710107394.5101197
+Setting invalid value generator random seed: 12345
+Invalid value generator random seed: 1710107653.595872
+Setting invalid value generator random seed: 12345
+Exception 'Exceed Timeout' applying checker <checkers.invalid_value_checker.InvalidValueChecker object at 0x000001FFD51B24E0>
+timeout reached
+2024-03-10 15:12:31.073: Terminating garbage collection. Waiting for max 300 seconds. 
+Done.

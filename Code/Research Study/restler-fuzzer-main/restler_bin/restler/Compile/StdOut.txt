@@ -1,0 +1,44 @@
+[3/10/2024 1:16:16 PM] Generating grammar...
+[3/10/2024 1:16:17 PM] Getting requests...
+[3/10/2024 1:16:17 PM] Getting dependencies...
+[3/10/2024 1:16:17 PM] Getting path consumers...
+[3/10/2024 1:16:17 PM] Getting query consumers...
+[3/10/2024 1:16:17 PM] Getting header consumers...
+[3/10/2024 1:16:17 PM] Getting body consumers...
+[3/10/2024 1:16:17 PM] Getting producers...
+[3/10/2024 1:16:17 PM] Done processing producers
+[3/10/2024 1:16:17 PM] Compute dependencies
+[3/10/2024 1:16:17 PM] Second pass dependencies for request { endpoint = ""
+  xMsPath = None
+  method = Get }
+[3/10/2024 1:16:17 PM] Second pass dependencies for request { endpoint = ""
+  xMsPath = None
+  method = Get }
+[3/10/2024 1:16:17 PM] Second pass dependencies for request { endpoint = ""
+  xMsPath = None
+  method = Get }
+[3/10/2024 1:16:17 PM] Done dependencies for request { endpoint = ""
+  xMsPath = None
+  method = Get }
+[3/10/2024 1:16:17 PM] Done dependencies for request { endpoint = ""
+  xMsPath = None
+  method = Get }
+[3/10/2024 1:16:17 PM] Done dependencies for request { endpoint = ""
+  xMsPath = None
+  method = Get }
+[3/10/2024 1:16:17 PM] Second pass dependencies for request { endpoint = ""
+  xMsPath = None
+  method = Get }
+[3/10/2024 1:16:17 PM] Done dependencies for request { endpoint = ""
+  xMsPath = None
+  method = Get }
+[3/10/2024 1:16:17 PM] Assigning equality constraints...
+[3/10/2024 1:16:17 PM] Getting ordering constraints...
+[3/10/2024 1:16:17 PM] Dependency analysis completed.
+[3/10/2024 1:16:17 PM] Generating request primitives...
+Writing new dictionary to C:\Users\COE User\Documents\GitHub\restler\restler-fuzzer-main\restler-fuzzer-main\restler_bin\restler\Compile\dict.json
+[3/10/2024 1:16:17 PM] Generating python grammar...
+[3/10/2024 1:16:17 PM] Get requests
+[3/10/2024 1:16:17 PM] Done get requests
+[3/10/2024 1:16:17 PM] Done generating python grammar.
+Workflow completed.  See C:\Users\COE User\Documents\GitHub\restler\restler-fuzzer-main\restler-fuzzer-main\restler_bin\restler\Compile for REST-ler grammar.

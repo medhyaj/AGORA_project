@@ -1,0 +1,23 @@
+{
+  "SwaggerSpecFilePath": [
+    "C:\\Users\\COE User\\Documents\\GitHub\\restler\\restler-fuzzer-main\\restler-fuzzer-main\\restler_bin\\restler\\.\\swagger_bySearch.yaml"
+  ],
+  "GrammarOutputDirectoryPath": "C:\\Users\\COE User\\Documents\\GitHub\\restler\\restler-fuzzer-main\\restler-fuzzer-main\\restler_bin\\restler\\Compile",
+  "CustomDictionaryFilePath": "C:\\Users\\COE User\\Documents\\GitHub\\restler\\restler-fuzzer-main\\restler-fuzzer-main\\restler_bin\\restler\\Compile\\defaultDict.json",
+  "IncludeOptionalParameters": true,
+  "UseHeaderExamples": true,
+  "UsePathExamples": false,
+  "UseQueryExamples": true,
+  "UseBodyExamples": true,
+  "UseAllExamplePayloads": false,
+  "DiscoverExamples": false,
+  "ExamplesDirectory": "",
+  "DataFuzzing": true,
+  "ReadOnlyFuzz": false,
+  "ResolveQueryDependencies": true,
+  "ResolveBodyDependencies": true,
+  "ResolveHeaderDependencies": false,
+  "UseRefreshableToken": true,
+  "AllowGetProducers": false,
+  "TrackFuzzedParameterNames": false
+}
